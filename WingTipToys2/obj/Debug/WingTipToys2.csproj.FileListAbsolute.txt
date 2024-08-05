@@ -199,7 +199,6 @@ C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\bin\Micros
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\obj\Debug\WingTipToys2.csproj.AssemblyReference.cache
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\obj\Debug\WingTipToys2.csproj.CoreCompileInputs.cache
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\obj\Debug\WingTipToys2.csproj.CopyComplete
 C:\Users\Daw Poe Ei Phyu\Desktop\DEV\CSharp\WingTipToys2\WingTipToys2\obj\Debug\WingTipToys2.dll
